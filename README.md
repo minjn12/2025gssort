@@ -1,6 +1,11 @@
 # 2025 GSHS Algorithm Sort Task
 ---
 
+### [main.md](https://github.com/minjn12/2025gssort/blob/main/main.md) | SBS Presentation
+### [main.pdf](https://github.com/minjn12/2025gssort/blob/main/main.pdf) | SBS Presentation
+
+---
+
 ### [a.cpp](https://github.com/minjn12/2025gssort/blob/main/a.cpp) | SBS, Heap, Bubble speed compare
 ### [main.cpp](https://github.com/minjn12/2025gssort/blob/main/main.cpp) | SBS sequently code
 ### [test01.py](https://github.com/minjn12/2025gssort/blob/main/test01.py) | Boso Sort visualize diagram
