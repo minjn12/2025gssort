@@ -1,4 +1,10 @@
+
 # 2025 GSHS Algorithm Sort Task
+
+---
+
+## **S**mart **B**ogo **S**ort, ***SBS***
+
 ---
 
 ### [main.md](https://github.com/minjn12/2025gssort/blob/main/main.md) | SBS Presentation
