@@ -1,17 +1,17 @@
 # 2025gssort
 ---
 
-# a.cpp | SBS, Heap, Bubble speed compare
-# main.cpp | SBS sequently code
-# test01.py | Boso Sort visualize diagram
-# test02.py | SBS visualize diagram
+### [a.cpp](https://github.com/minjn12/2025gssort/blob/main/a.cpp) | SBS, Heap, Bubble speed compare
+### main.cpp | SBS sequently code
+### test01.py | Boso Sort visualize diagram
+### test02.py | SBS visualize diagram
 
 ---
 
-# timing_results.csv | SBS, Heap, Bubble speed compare 
+### timing_results.csv | SBS, Heap, Bubble speed compare 
 
 ---
 
-# coding.png | SBS, Heap, Bubble speed compare 
-# output.png | Diagram 1
-# output2.png | Diagram 2
+### coding.png | SBS, Heap, Bubble speed compare 
+### output.png | Diagram 1
+### output2.png | Diagram 2
