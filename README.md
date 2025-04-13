@@ -1,4 +1,4 @@
-# 2025gssort
+# 2025 GSHS Algorithm Sort Task
 ---
 
 ### [a.cpp](https://github.com/minjn12/2025gssort/blob/main/a.cpp) | SBS, Heap, Bubble speed compare
